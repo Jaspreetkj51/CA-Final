@@ -17,10 +17,3 @@ I approached this problem by:
 
 3. **Evaluation**  
    - Computed Test MSE = 209.89 (RMSE ≈ 14.49 kg), indicating large average error relative to typical adult weights.
-
-4. **Next Steps**  
-   - Conduct residual analysis to check for non-linear patterns.  
-   - Engineer interaction or polynomial features to capture more complex relationships.  
-   - Compare with regularized (Ridge/Lasso) and non-linear (Random Forest) models.  
-   - Scale inputs and perform k-fold cross-validation for more robust performance estimates.
-
